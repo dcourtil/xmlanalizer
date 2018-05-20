@@ -16,7 +16,7 @@ Folowwing are the output results of the excecutions with the provided samples.
 ### Execution 1
 Command run:
 ```
-java -jar xmlanalizer.jar sample-0-origin.html sample-1-evil-gemini.html make-everything-ok-button
+java -jar xmlanalizer.jar ./examples/sample-0-origin.html ./examples/sample-1-evil-gemini.html make-everything-ok-button
 ```
 Output result:
 ```
