@@ -1,0 +1,12 @@
+class
+*.log
+*.iml
+*.swp
+bin
+build
+target
+.idea
+.project
+.classpath
+.settings
+.idea
